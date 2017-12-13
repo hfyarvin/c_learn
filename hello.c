@@ -8,5 +8,6 @@ int main()
 /*
 generate a.out:
 	gcc hello.c
- 
+	gcc hello.c -o hello
+
 */
